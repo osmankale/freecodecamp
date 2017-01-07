@@ -1,3 +1,10 @@
+# ownCloud Sync Files #
+.csync_journal.db
+.csync_journal.db-shm
+.csync_journal.db-wal
+.owncloudsync.log
+.owncloudsync.log.1
+
 # Directories #
 Dropbox/
 
