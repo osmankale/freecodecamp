@@ -1,2 +1,2 @@
 # frecodecamp
-My Freecodecamp algoritm challenges & projects 
+My Freecodecamp Algoritm Challenges & Projects 
