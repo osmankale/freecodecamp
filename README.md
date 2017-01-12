@@ -1,2 +1,2 @@
-# frecodecamp
-My Freecodecamp Algoritm Challenges & Projects 
+# freecodecamp
+My Freecodecamp Algoritm Challenges
