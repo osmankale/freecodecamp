@@ -4,6 +4,7 @@
 .csync_journal.db-wal
 .owncloudsync.log
 .owncloudsync.log.1
+github.txt
 
 # Directories #
 Dropbox/
